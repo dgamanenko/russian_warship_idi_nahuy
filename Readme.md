@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)
+![Screenshot](image.png)
 
 1. Clone this repo
 2. Unpack: ```tar xvf bundles.tar.gz```
